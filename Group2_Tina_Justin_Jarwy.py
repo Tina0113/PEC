@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Tue Jun  4 11:32:18 2019
-
 @author: ShinTing Wu, HsinTing Chou, ChiaWei Hsu
 """
 from numpy import genfromtxt,array,linalg,zeros,apply_along_axis
